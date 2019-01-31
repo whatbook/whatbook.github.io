@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{138:function(n,t,e){"use strict";e.r(t),e.d(t,"default",function(){return a});var r=e(7),u=e.n(r),o=e(0),i=e.n(o),a=function(n){function t(){return n.apply(this,arguments)||this}return u()(t,n),t.prototype.render=function(){return i.a.createElement("div",null,i.a.createElement("h1",null,"About Gatsby"))},t}(o.Component)}}]);
+//# sourceMappingURL=component---src-pages-about-js-18aa0a03cfa968c4d508.js.map
